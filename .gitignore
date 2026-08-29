@@ -1,0 +1,11 @@
+# SSIS / Visual Studio build output
+[Bb]in/
+[Oo]bj/
+*.ispac
+
+# Visual Studio user-specific project settings
+*.dtproj.user
+*.suo
+
+# Source data (not distributed with the project — see data/README.md)
+/data/*.csv
